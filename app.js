@@ -28,6 +28,8 @@ switch (comando) {
 //console.log(process.argv);
 //let argv2 = process.argv;
 
-// let parametro = argv[2];
+
+// let parametro = argv[2];    
 // let base = parametro.split('=')[1];
+//console.log('Limite ', argv.limite);
 //console.log('Limite ', argv.limite);
